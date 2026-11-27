@@ -28,3 +28,11 @@ Oba modele były trenowane na 10 epokach.
 | Recall | 0.258 | 0.264 |
 | mAP@0.5 | 0.228 | 0.230 |
 | mAP@0.5:0.95 | 0.122 | 0.124 |
+
+## Porównanie modeli na własnych danych uzyskanych podczas treningu (trening 2 - inne parametry)
+| Metryka | YOLOv8n | YOLO11n |
+| :--- | :---: | :---: |
+| Precision | 0.786 | 0. |
+| Recall | 0.546 | 0. |
+| mAP@0.5 | 0.627 | 0. |
+| mAP@0.5:0.95 | 0.371 | 0. |
